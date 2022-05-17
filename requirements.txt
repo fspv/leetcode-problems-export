@@ -1,0 +1,2 @@
+python-leetcode==1.2.1
+tqdm
